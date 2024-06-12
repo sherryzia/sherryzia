@@ -17,7 +17,7 @@
 
  - 🌐 My Social Handles: [Link Tree](https://linktr.ee/shaheerziaqazi)
 
- - 📄 My Resume: [Sherry CV](Sherry CV)
+ - 📄 My Resume: [Sherry CV]([Sherry CV](https://drive.google.com/file/d/1ZUq4GAVhgDrkMuw3_H7HxDeMV8DsAW9c/view?usp=sharing))
    
 ### Awards, Certifications, and Recognitions
   
