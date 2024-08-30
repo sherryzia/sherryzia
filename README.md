@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 <h1 align="center">Hi 👋, I'm Shaheer Zia Qazi</h1>
-<h3 align="center">Dynamic and skilled Software Engineer with a passion for innovation and leadership. Experienced in a wide range of technologies including web development, mobile app development, AI, and graphic design. Committed to continuous learning and making meaningful contributions in a dynamic environment.</h3>
+<h3 align="center">Dynamic Software Engineer skilled in mobile and web development with expertise in Flutter, Swift, Firebase, C/C++, Python, Java, and cloud technologies. Proficient in HTML, CSS, JS, Tailwind, React-JS and Next-JS. Offering high-quality projects with strong UI/UX, graphic design skills, and experience in iOS development.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherryzia&label=Profile%20views&color=0e75b6&style=flat" alt="sherryzia" /> </p>
@@ -11,13 +11,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 
-- 🔭 I’m currently working at [Disruptive AI](https://disruptiveai.co)
-
+- 🏢 I’ve worked as a Flutter Developer at Duseca Software, ML Intern, and Graphic Designer at Disruptive AI.
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/sherryzia)
-
- - 🌐 My Social Handles: [Link Tree](https://linktr.ee/shaheerziaqazi)
-
- - 📄 My Resume: [View CV](https://drive.google.com/file/d/1ZUq4GAVhgDrkMuw3_H7HxDeMV8DsAW9c/view?usp=sharing)
+- 🌐 My Social Handles: [Link Tree](https://linktr.ee/shaheerziaqazi)
+- 📄 My Resume: [View CV](https://drive.google.com/file/d/18lDjquf0PT-nCNv_zUXkwR_oax9Bmlzf/view?usp=sharing)
    
 ### Awards, Certifications, and Recognitions
   
